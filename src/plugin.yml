@@ -1,0 +1,7 @@
+name: DelayedCommand
+main: de.sabbertran.delayedcommand.DelayedCommand
+version: 1.0
+website: http://www.sabbertran.de/
+author: Sabbertran
+description: Plugin to delay commands for players
+    
